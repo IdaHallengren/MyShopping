@@ -1,0 +1,2 @@
+# MyShopping
+Independent project - STS 
